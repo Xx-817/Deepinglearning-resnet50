@@ -134,5 +134,9 @@ a=['hazardous_waste_dry_battery',
 for i in range(topk):
     print("label:", a[indexs[i].item()], " prob: ", prob[indexs[i]])
  ```
- 训练结果和测试结果如图  
-![训练过程](https://github.com/Xx-817/Deepinglearning-resnet50/master/1.png)
+ 训练过程
+![训练过程](https://github.com/Xx-817/Deepinglearning-resnet50/blob/master/1.png)  
+测试图片
+![测试图片](https://github.com/Xx-817/Deepinglearning-resnet50/blob/master/2.png)  
+测试结果及准确度  
+![训练结果](https://github.com/Xx-817/Deepinglearning-resnet50/blob/master/3.png)
