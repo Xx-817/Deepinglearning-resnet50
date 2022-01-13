@@ -135,3 +135,4 @@ for i in range(topk):
     print("label:", a[indexs[i].item()], " prob: ", prob[indexs[i]])
  ```
  训练结果和测试结果如图
+![训练过程](ttps://github.com/Xx-817/Deepinglearning-resnet50/master/1.png)
