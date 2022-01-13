@@ -66,5 +66,5 @@ def testrunning():
     return result
 st.write(testrunning())
 ```
-demo如图
-![demo]()
+demo如图  
+![demo](https://github.com/Xx-817/Deepinglearning-resnet50/blob/master/4.png)
